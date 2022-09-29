@@ -1,4 +1,4 @@
-#Firmicutes and Bacteroidetes explain mass gain variation in marmots
+Firmicutes and Bacteroidetes explain mass gain variation in marmots
 
 1. R file contains all assoicated scripts to run linear analyses on microbial phyla abundance against different host factors. 
 
